@@ -1,0 +1,25 @@
+.row {
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+
+}
+.col {
+    background-color: blueviolet;
+    margin: 5px;
+    padding: 5px;
+    flex: 1;
+}
+.col-2 {
+    background-color: brown;
+    margin: 5px;
+    padding: 5px;
+    flex: 2;
+}
+.col-3 {
+    background-color: darkgoldenrod;
+    margin: 5px;
+    padding: 5px;
+    flex: 3;
+}
